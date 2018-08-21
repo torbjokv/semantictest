@@ -1,7 +1,7 @@
 mode: ContinuousDelivery
 branches: {}
-major-version-bump-message: '\+semver:\s?(breaking|major)'
-minor-version-bump-message: '\+semver:\s?(feature|feat|minor)'
-patch-version-bump-message: '\+semver:\s?(fix|patch)'
+major-version-bump-message: 'BREAKING CHANGE'
+minor-version-bump-message: 'feat\(?.*\)?:'
+patch-version-bump-message: 'fix\(?.*\)?:'
 ignore:
   sha: []
