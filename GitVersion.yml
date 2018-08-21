@@ -6,7 +6,6 @@ branches:
     tag: alpha
 
 major-version-bump-message: 'BREAKING CHANGE'
-minor-version-bump-message: 'feat\(?.*\)?:'
 
 ignore:
   sha: []
