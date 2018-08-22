@@ -1,6 +1,6 @@
 {
   "name": "semantictest",
-  "version": "0.0.0-development",
+  "version": "2.3.0-rc.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
